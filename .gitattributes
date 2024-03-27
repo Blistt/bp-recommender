@@ -1,3 +1,2 @@
 *.ipynb linguist-vendored
 *.json linguist-detectable=true
-*.json linguist-language=JSON
